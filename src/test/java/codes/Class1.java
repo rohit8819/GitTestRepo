@@ -9,6 +9,7 @@ public class Class1 {
 
  System.out.println("first method");
  System.out.println("changes by user 2");
+ System.out.println("changes by user 1");
 
  }
 
