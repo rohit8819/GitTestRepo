@@ -8,6 +8,7 @@ public class Class1 {
  public void sampleMethod(){
 
  System.out.println("first method");
+ System.out.println("changes by user 2");
 
  }
 
