@@ -8,7 +8,7 @@ public class Class1 {
  public void sampleMethod(){
 
  System.out.println("first method");
- System.out.println("changes by user 2");
+ System.out.println("changes by user 2 for login feature");
 
  System.out.println("code for undo by user 2");
 
